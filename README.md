@@ -32,11 +32,11 @@ A tool to save and switch states for quick demo purpose, **Sketch 3.0.2+ support
 * Save As State 03:   `⌃` + `⌥` + `⇧` + `3` ------- (`ctrl` + `alt` + `shift` + `3`)
 * Save As State 04:   `⌃` + `⌥` + `⇧` + `4` ------- (`ctrl` + `alt` + `shift` + `4`)
 * Save As State 05:   `⌃` + `⌥` + `⇧` + `5` ------- (`ctrl` + `alt` + `shift` + `5`)
-* Switch To State 01: `⌃` + `⌥` + `1` ------------ (`ctrl` + `alt` + `1`)
-* Switch To State 02: `⌃` + `⌥` + `2` ------------ (`ctrl` + `alt` + `2`)
-* Switch To State 03: `⌃` + `⌥` + `3` ------------ (`ctrl` + `alt` + `3`)
-* Switch To State 04: `⌃` + `⌥` + `4` ------------ (`ctrl` + `alt` + `4`)
-* Switch To State 05: `⌃` + `⌥` + `5` ------------ (`ctrl` + `alt` + `5`)
+* Switch To State 01: `⌃` + `⌥` + `1` ----------- (`ctrl` + `alt` + `1`)
+* Switch To State 02: `⌃` + `⌥` + `2` ----------- (`ctrl` + `alt` + `2`)
+* Switch To State 03: `⌃` + `⌥` + `3` ----------- (`ctrl` + `alt` + `3`)
+* Switch To State 04: `⌃` + `⌥` + `4` ----------- (`ctrl` + `alt` + `4`)
+* Switch To State 05: `⌃` + `⌥` + `5` ----------- (`ctrl` + `alt` + `5`)
 
 ##Contact
 
