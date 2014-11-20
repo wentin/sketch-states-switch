@@ -1,0 +1,22 @@
+// (ctrl alt shift 2)
+
+#import 'library.js'
+
+var pages = [doc pages];
+var index = 0;
+for (var a=0; a<pages.count();a++){
+
+  var currentPage = pages[a];
+  var artboards = [currentPage artboards];
+  for (var i=0; i<artboards.count(); i++) {
+
+    var artboard = artboards[i];
+    var layergroups = [artboard layers];
+    for (var j=0; j<layergroups.count(); j++){
+
+      var layer = layergroups.objectAtIndex(j);
+      setConfig('layerVisibility2' + index, [layer isVisible]);
+      index++;   
+    } 
+  } 
+}
