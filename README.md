@@ -10,9 +10,11 @@ A tool to save and switch states for quick demo purpose, **Sketch 3.0.2+ support
 
 ## Installing Plugins
 <!-- ### The conventional way: -->
-1. Download the ZIP file with the [**Sketch States Switch**](https://github.com/wentin/sketch-states-switch/archive/master.zip)
-2. Copy the contents to the plugin folder (Open up Sketch, and go to 
-`Plugins` › `Reveal Plugins Folder…` to open it.)
+
+1. Download the ZIP file with the [**Sketch States Switch**](https://github.com/wentin/sketch-states-switch/raw/master/dist/Sketch%20States%20Switch.zip)
+2. Reveal plugins folder in finder (`Sketch App Menu` › `Plugins` › `Reveal Plugins Folder…`).
+3. Copy downloaded zip file to the revealed folder and un-zip it.
+4. You are ready to go! Enjoy :)
 
 <!-- 
 ### The quickest way:
