@@ -11,6 +11,7 @@ A tool to save and switch states for quick demo purpose, **Sketch 3.0.2+ support
 ### The conventional way:
 1. [Download the ZIP file with the **Sketch States Switch**](https://github.com/wentin/sketch-states-switch/archive/master.zip)
 2. Copy the contents to the plugin folder (Open up Sketch, and go to `Plugins` › `Reveal Plugins Folder…` to open it.)
+
 <!-- 
 ### The quickest way:
 * to be added after sketch toolbox includes this tool -->
