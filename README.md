@@ -1,8 +1,10 @@
 # Sketch States Switch
 
 A tool to save and switch states for quick demo purpose, **Sketch 3.0.2+ support**. 
-Save different states of your sketch files (the visibility of layers and layergroups) and switch between those saved states when you demo it in a meeting or something. 
-Another use case would be comparing two approaches, jump back and forth quickly to see which one works for the eyeS.
+
+>Save different states of your sketch files (the visibility of layers and layergroups) and switch between those >saved states when you demo it in a meeting or something. 
+>Another use case would be comparing two approaches, jump back and forth quickly to see which one works for the >eyeS.
+
 
 ![Banner](http://socialbeaker.com/n72//ios-icon//350//Switch-iOS-Icon//attachment//large-Switch-iOS-Icon.png)
 ## Updates
