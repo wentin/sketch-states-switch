@@ -11,25 +11,16 @@ A tool to save and switch states for quick demo purpose, **Sketch 3.0.2+ support
 ### The conventional way:
 1. [Download the ZIP file with the **Sketch States Switch**](https://github.com/wentin/sketch-states-switch/archive/master.zip)
 2. Copy the contents to the plugin folder (Open up Sketch, and go to `Plugins` › `Reveal Plugins Folder…` to open it.)
-
+<!-- 
 ### The quickest way:
-
-_NOTE: If your Mac has not installed GitHub client, You need to install [GitHub for mac](https://mac.github.com)_
-
-1. Click on the [Clone in Desktop](github-mac://openRepo/https://github.com/wentin/sketch-states-switch) button on GitHub
-2. Press `command` + `shift` + `g` to find plugin folder, then paste plugin folder path
-
-**Plugin Folder Path**
-
-* App Store `~/Library/Containers/com.bohemiancoding.sketch3/Data/Library/Application Support/com.bohemiancoding.sketch3/Plugins`
-* Beta `~/Library/Application Support/com.bohemiancoding.sketch3/Plugins`
+* to be added after sketch toolbox includes this tool -->
 
 ## How-to
-
+<!-- 
 ### Demo Video
 * To be added soon
 [![video](https://i.vimeocdn.com/video/478609399_960.jpg)](https://vimeo.com/98025780)
-[turn to vimeo.com](https://vimeo.com/98025780)
+[turn to vimeo.com](https://vimeo.com/98025780) -->
 
 ### Keyboard Shortcuts
 * Save As State 01: 	`⌃` + `⌥` + `⇧` + `1` (`ctrl alt shift 1`)
