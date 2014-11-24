@@ -26,11 +26,8 @@ Another use case would be comparing two approaches, jump back and forth quickly 
 
 ## How-to
 ### Demo Video
-* To be added soon
+[![Sketch tutorial: Sketch States Switch](http://img.youtube.com/vi/Vw4VlmA2tIo/0.jpg)](http://www.youtube.com/watch?v=Vw4VlmA2tIo)
 
-<!-- 
-[![video](https://i.vimeocdn.com/video/478609399_960.jpg)](https://vimeo.com/98025780)
-[turn to vimeo.com](https://vimeo.com/98025780) -->
 
 ### Keyboard Shortcuts
 ##### Save As State 01:   `⌃` + `⌥` + `⇧` + `1` ------- (`ctrl` + `alt` + `shift` + `1`)
