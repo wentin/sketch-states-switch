@@ -25,7 +25,7 @@ Another use case would be comparing two approaches, jump back and forth quickly 
 * to be added after sketch toolbox includes this tool -->
 
 ## How-to
-### Demo Video
+### Tutorial Video
 [![Sketch tutorial: Sketch States Switch](http://img.youtube.com/vi/Vw4VlmA2tIo/0.jpg)](http://www.youtube.com/watch?v=Vw4VlmA2tIo)
 
 
