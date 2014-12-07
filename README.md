@@ -44,11 +44,11 @@ Currently there are 5 states available. However you can override previously set 
 Currently there are 5 states available. However you can override previously set states, and recylce these 5 states. 
 ##Mention
 
-[(http://www.sketchappsources.com/plugins-for-sketch.html)](http://www.sketchappsources.com/plugins-for-sketch.html)
+[http://www.sketchappsources.com/plugins-for-sketch.html](http://www.sketchappsources.com/plugins-for-sketch.html)
 
-[(http://awesome-sket.ch/)](http://awesome-sket.ch/)
+[http://awesome-sket.ch/](http://awesome-sket.ch/)
 
-[(https://designcode.io/learn)](https://designcode.io/learn)
+[https://designcode.io/learn](https://designcode.io/learn)
 
 ##Contact
 
