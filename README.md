@@ -55,3 +55,7 @@ Currently there are 5 states available. However you can override previously set 
 * Follow [@DesignJokes](http://twitter.com/DesignJokes) on Twitter
 * Email <zhangwenting111@gmail.com>
 * Visit [wentin.co](http://wentin.co)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/wentin/sketch-states-switch/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
